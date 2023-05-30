@@ -1,0 +1,122 @@
+.h1{
+    background-color: yellow;
+}
+
+.h2m2
+{ position: relative;left: 150px;
+    position: relative;bottom: 650px;
+
+}
+
+.h2m3{
+
+    position: relative;left: 150px;
+    position: relative;bottom: 650px;
+
+
+}
+.p1{position: relative;left: 150px;
+    position: relative;bottom: 650px;
+
+    }
+.p2{
+    position: relative;left: 150px;
+    position: relative;bottom: 650px;
+
+
+}
+.p3{
+
+    position: relative;left: 150px;
+    position: relative;bottom: 650px;
+}
+
+.p4{text-align: center;
+    position: relative;bottom: 400px;
+
+    }
+
+
+
+a:link {
+   
+    background-color: aquamarine;
+    width: 20px;
+    height: 20px;
+}
+
+a:hover{
+    background-color: yellow;
+ padding: 15px;
+ border-radius: 5px;
+    
+}
+
+.vl{border-left: 6px solid green;
+    height: 500px;
+    position: relative;left: 110px;
+    position: relative;bottom: 140px;
+}
+ 
+.div1 {
+    
+    width: 150px;
+    height: 150px;
+    border-style: dashed;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;left: 1200px;
+    position: relative;bottom: 1060px;
+}
+/* --------------------------- */
+.hr { position:relative;bottom: 300px;}
+
+.homepage{ 
+width: 500px;
+height: 500px;
+position: relative;left: 480px;
+background-color: aqua;
+border-style: solid;
+border-color: blue;
+
+}
+
+.hph1{
+    position: relative;left: 80px;
+
+}
+.hpp1{
+    position: relative;left: 80px;
+}
+
+.hpp2{
+    position: relative;left: 80px;
+}
+
+.vl2{border-left: 6px solid green;
+    height: 200px;
+    position: relative;left: 250px;
+    position: relative;bottom: 180px;
+    }
+
+    .hph2{
+
+        position: relative;left: 300px;
+        position: relative;bottom: 410px;
+    }
+
+    .hpp3{
+        position: relative;left: 300px;
+        position: relative;bottom: 410px;
+    }
+    .hpp4{ position: relative;left: 300px;
+        position: relative;bottom: 380px;
+    }
+
+    .logo{
+        position: relative;top: 5px;
+    }
+    .p5{
+        position: relative;left: 690px;
+        position: relative;bottom: 50px;
+    }
